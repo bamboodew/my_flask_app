@@ -10,7 +10,10 @@
     {
       "files": "*.md",
       "options": {
-        "parser": "markdown"
+        "parser": "markdown",
+        "proseWrap": "preserve",
+        "embeddedLanguageFormatting": "auto",
+        "listItemIndent": "one"
       }
     }
   ]
