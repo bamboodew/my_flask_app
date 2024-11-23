@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "format:md": "markdownlint-cli2 --fix \"*.md\" \"!node_modules\"",
+    "lint:md": "markdownlint-cli2 \"*.md\" \"!node_modules\"",
+    "format:md:watch": "markdownlint-cli2 --fix \"*.md\" \"!node_modules\" --watch"
+  },
+  "dependencies": {
+    "markdownlint-cli2": "^0.15.0"
+  }
+}

@@ -4,29 +4,33 @@ A simple Flask web application.
 
 ## Setup
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/my_flask_app.git
-cd my_flask_app
-```
+1.  Clone the repository:
 
-2. Create and activate a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
+    ```bash
+    git clone https://github.com/yourusername/my_flask_app.git
+    cd my_flask_app
+    ```
 
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+2.  Create and activate a virtual environment:
 
-4. Run the application:
-```bash
-python app.py
-```
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
 
-5. Open your browser and navigate to `http://localhost:5000`
+3.  Install dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4.  Run the application:
+
+    ```bash
+    python app.py
+    ```
+
+5.  Open your browser and navigate to `http://localhost:5000`
 
 ## Features
 

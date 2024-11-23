@@ -1,0 +1,19 @@
+{
+    "default": true,
+    "MD007": { "indent": 4 },
+    "MD010": true,
+    "MD012": { "maximum": 1 },
+    "MD013": { "line_length": 120 },
+    "MD022": true,
+    "MD023": true,
+    "MD025": true,
+    "MD029": { "style": "ordered" },
+    "MD030": { "ul_multi": 3, "ol_multi": 2 },
+    "MD031": true,
+    "MD032": true,
+    "MD033": false,
+    "MD034": true,
+    "MD040": true,
+    "MD041": true,
+    "MD046": { "style": "fenced" }
+}
